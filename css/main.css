@@ -204,6 +204,11 @@ html,body
     max-height: 515px;
     min-height: 515px;
   }
+  .participant-img{
+    max-height: 340px;
+    min-height: 340px;
+    min-width: 340px;
+  }
 }
 
  @media screen and (max-width: 600px) {
